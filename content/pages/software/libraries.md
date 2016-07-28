@@ -44,7 +44,7 @@ __See something missing?__ Any list of XMPP servers, clients or libraries will, 
 | [Escalus](https://github.com/esl/escalus)                                 | Erlang                              | Apache 2.0       |
 | [exmpp](http://exmpp.org)                                                 | Erlang                              |                  |
 | [frabjous](https://github.com/theozaurus/frabjous)                        | JavaScript                          |                  |
-| [gloox](http://camaya.net)                                                | C++                                 |                  |
+| [gloox](http://camaya.net)                                                | C++                                 | GPLv3/Commercial |
 | [go-xmpp2](https://cjones.org/hg/go-xmpp2)                                | Go                                  | BSD              |
 | [headstock](https://github.com/Lawouach/headstock)                        | Python                              |                  |
 | [hsxmpp](http://חנוך.se)                                                  | Haskell                             |                  |
